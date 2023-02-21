@@ -1,0 +1,72 @@
+/*
+============================================
+, Title: styles.scss for in-n-out-books
+; Author: Chad ONeal
+; Date: 02/02/2023
+; Description: scss styling for in-n-out-books
+===========================================
+*/
+
+/* imports _theme.scss stylings
+*/
+@import './theme';
+
+/* stylings for the body of the page
+*/
+html, body {
+  height: 100%;
+
+}
+
+/* stylings for the body of the page
+*/
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+/* styles the blue coloring on the page
+*/
+.blue {
+  color: #2196F3;
+}
+
+/* styles the green coloring on the page
+*/
+.green {
+  color: #66BB6A;
+}
+
+/* stylings for attribution link on the page
+*/
+.attribution-link {
+  text-decoration: none;
+  color: white;
+}
+
+/* stylings for the hover effect on the attribution link
+*/
+.attribution-link:hover {
+  text-decoration: underline;
+}
+
+/* centers the text in card title
+*/
+.card-title-icon {
+  text-align: center;
+
+}
+
+/* mat-icon styling for the page
+*/
+.card-title-icon, .mat-icon {
+  font-size: 72px;
+}
+
+/* centers content on the page
+*/
+.align-center {
+  text-align: center;
+}
+
+
