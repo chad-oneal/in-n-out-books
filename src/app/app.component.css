@@ -1,0 +1,22 @@
+/*
+============================================
+, Title: app.component.css for in-n-out-books
+; Author: Chad ONeal
+; Date: 01/11/2023
+; Description: css styling for in-n-out-books
+===========================================
+*/
+
+/* stylings for the logo at top left of the page
+*/
+.logo {
+  margin-top: 5px;
+}
+
+/* stylings for the container in center of the page
+*/
+.main-container {
+  padding-top: 25px;
+  width: 80%;
+  margin: 0 auto;
+}

@@ -1,0 +1,39 @@
+/*
+============================================
+, Title: book-list.component.scss for in-n-out-booksp1
+; Author: Chad ONeal
+; Date: 02/02/2023
+; Description: css styling for in-n-out-books
+===========================================
+*/
+
+// stylings for the container on pae
+.grid-container {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: auto auto auto;
+  padding: 25px;
+}
+
+// stylings for items inside container
+.grid-container__item {
+  padding: 20px;
+  font-size: 30px;
+}
+
+// stylings for links inside container
+.grid-container__ahref {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+// stylings for hover effect onlinks
+.grid-container__ahref:hover {
+  text-decoration: underline;
+}
+
+// stylings for spinner
+.spinner {
+  margin-top: 2%;
+  margin-left: 45%;
+}
