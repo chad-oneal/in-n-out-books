@@ -44,7 +44,7 @@ class AboutComponent {
     }
 }
 AboutComponent.ɵfac = function AboutComponent_Factory(t) { return new (t || AboutComponent)(); };
-AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 19, vars: 0, consts: [["fxLayout", "row wrap"], ["fxFlex", ""], ["fxLayout", "column"], ["src", "../assets/ThomasHarris_RobinHill_Header.jpg", 2, "height", "250px"], ["href", "https://www.pastemagazine.com/books/thomas-harris/new-novel-from-silence-of-the-lambs-author/", "target", "_blank", 1, "attribution-link"], [1, "blue"], ["href", "https://www.famousauthors.org/thomas-harris", "target", "_blank", 1, "attribution-link"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
+AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 19, vars: 0, consts: [["fxLayout", "row wrap"], ["fxFlex", ""], ["fxLayout", "column"], ["src", "./assets/ThomasHarris_RobinHill_Header.jpg", 2, "height", "250px"], ["href", "https://www.pastemagazine.com/books/thomas-harris/new-novel-from-silence-of-the-lambs-author/", "target", "_blank", 1, "attribution-link"], [1, "blue"], ["href", "https://www.famousauthors.org/thomas-harris", "target", "_blank", 1, "attribution-link"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
